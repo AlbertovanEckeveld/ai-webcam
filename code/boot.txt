@@ -1,0 +1,6 @@
+# camera_auto_detect=1
+start_x=0
+gpu_mem=128
+dtoverlay=imx219
+over_voltage=4
+force_turbo=1

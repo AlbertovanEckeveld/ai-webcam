@@ -10,6 +10,12 @@ With a raspberry pi zero 2 w, camera module, 2x SG90 servo's, custom 3D printed 
 - Micro USB to USB-A male OTG Cable
 
 ## Installation
+To set up the AI powered webcam on your Raspberry Pi, follow these steps:
+
+0. Clone the repository:
+   ```bash
+   git clone https://github.com/AlbertovanEckeveld/ai-webcam.git
+   ```
 1. Install the required packages:
    ```bash
    sudo apt install python3-pip python3-dev libatlas-base-dev libopenjp2-7 libtiff5 v4l2-ctlq
@@ -40,10 +46,11 @@ With a raspberry pi zero 2 w, camera module, 2x SG90 servo's, custom 3D printed 
    Add the following line:
    ```bash
    @reboot /usr/bin/usb-webcam.sh
+   @reboot python3 main.py
    ```
    
 7. Reboot the Raspberry Pi:
    ```bash
-    sudo reboot
+    sudo reboot now
     ```
    

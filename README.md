@@ -9,6 +9,8 @@ With a raspberry pi zero 2 w, camera module, 2x SG90 servo's, custom 3D printed 
 - Custom 3D Printed Case (available on [Thingiverse](https://www.thingiverse.com/thing:708819))
 - Micro USB to USB-A male OTG Cable
 
+![Webcam Prototype](img/ai-webcam-frame.jpg)
+
 ## Installation
 To set up the AI powered webcam on your Raspberry Pi, follow these steps:
 

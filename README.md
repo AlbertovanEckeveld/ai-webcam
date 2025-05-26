@@ -12,7 +12,7 @@ With a raspberry pi zero 2 w, camera module, 2x SG90 servo's, custom 3D printed 
 ![Webcam Prototype](img/ai-webcam-frame.jpg)
 
 ## Installation
-To set up the AI powered webcam on your Raspberry Pi, follow these steps:
+To set up the AI powered webcam on your Raspberry Pi (zero 2w), follow these steps:
 
 0. Clone the repository:
    ```bash

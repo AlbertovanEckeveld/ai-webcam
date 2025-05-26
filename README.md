@@ -1,6 +1,6 @@
 # AI powered webcam
 
-With a raspberry pi zero 2 w, camera module, 2x SG90 servo's, custom 3D printed case and this software you can create an AI powered webcam that follows pan/tilt person.
+With a raspberry pi zero 2 w, camera module, 2x SG90 servo's, custom 3D printed case and this software you can create an AI powered webcam that follows a person and can autofocus and pan/tilt.
 
 ## Hardware
 - Raspberry Pi Zero 2 W
